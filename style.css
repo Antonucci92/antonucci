@@ -1,0 +1,16 @@
+h1 {
+    color:  rgb(64, 106, 204);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+li {
+    color: grey;
+    font-size: 20px;
+    text-transform: capitalize;
+    line-height: 35px;
+    font-weight: bolder;
+}
+img {
+    width: 250px;
+}
